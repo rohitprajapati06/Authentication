@@ -1,0 +1,88 @@
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\appsettings.Development.json
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\appsettings.json
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\WebApiDemo.staticwebassets.endpoints.json
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\WebApiDemo.exe
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\WebApiDemo.deps.json
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\WebApiDemo.runtimeconfig.json
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\WebApiDemo.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\WebApiDemo.pdb
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\WebApiDemo.csproj.AssemblyReference.cache
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\WebApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\WebApiDemo.AssemblyInfoInputs.cache
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\WebApiDemo.AssemblyInfo.cs
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\WebApiDemo.csproj.CoreCompileInputs.cache
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\WebApiDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\WebApiDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\scopedcss\bundle\WebApiDemo.styles.css
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.WebApiDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.WebApiDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiDemo.props
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiDemo.props
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiDemo.props
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\WebApiDemo.csproj.Up2Date
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\WebApiDemo.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\refint\WebApiDemo.dll
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\WebApiDemo.pdb
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\WebApiDemo.genruntimeconfig.cache
+D:\Documents\.Net\WebApiDemo\WebApiDemo\obj\Debug\net8.0\ref\WebApiDemo.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\appsettings.Development.json
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\WebApiDemo.staticwebassets.endpoints.json
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\appsettings.json
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\WebApiDemo.exe
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\WebApiDemo.deps.json
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\WebApiDemo.runtimeconfig.json
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\WebApiDemo.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\WebApiDemo.pdb
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\WebApiDemo.csproj.AssemblyReference.cache
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\WebApiDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\WebApiDemo.AssemblyInfoInputs.cache
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\WebApiDemo.AssemblyInfo.cs
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\WebApiDemo.csproj.CoreCompileInputs.cache
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\WebApiDemo.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\WebApiDemo.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\scopedcss\bundle\WebApiDemo.styles.css
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\staticwebassets.build.json
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\staticwebassets.development.json
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.WebApiDemo.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.WebApiDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiDemo.props
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiDemo.props
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiDemo.props
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\WebApiDemo.csproj.Up2Date
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\WebApiDemo.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\refint\WebApiDemo.dll
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\WebApiDemo.pdb
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\WebApiDemo.genruntimeconfig.cache
+D:\Documents\.Net\JWT Implementation\WebApiDemo\obj\Debug\net8.0\ref\WebApiDemo.dll
