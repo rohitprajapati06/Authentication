@@ -35,7 +35,7 @@ This repository provides a **secure authentication** using **ASP.NET Core**, imp
 ---
 
 ## 🛠️ Setup Instructions
-##### Configure authentication settings in appsettings.json:
+### Configure authentication settings in appsettings.json:
 
 
 
