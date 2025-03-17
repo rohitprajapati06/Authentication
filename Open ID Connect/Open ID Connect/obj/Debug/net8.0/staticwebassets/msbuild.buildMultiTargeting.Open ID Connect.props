@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Open ID Connect.props" />
+</Project>

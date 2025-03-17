@@ -1,0 +1,150 @@
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\appsettings.Development.json
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\appsettings.json
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Open ID Connect.staticwebassets.runtime.json
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Open ID Connect.staticwebassets.endpoints.json
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Open ID Connect.exe
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Open ID Connect.deps.json
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Open ID Connect.runtimeconfig.json
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Open ID Connect.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Open ID Connect.pdb
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID Connect.csproj.AssemblyReference.cache
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID Connect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID Connect.AssemblyInfoInputs.cache
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID Connect.AssemblyInfo.cs
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID Connect.csproj.CoreCompileInputs.cache
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID Connect.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID Connect.RazorAssemblyInfo.cache
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID Connect.RazorAssemblyInfo.cs
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\scopedcss\bundle\Open ID Connect.styles.css
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\scopedcss\projectbundle\Open ID Connect.bundle.scp.css
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\staticwebassets.build.json
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\staticwebassets.development.json
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\staticwebassets\msbuild.Open ID Connect.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\staticwebassets\msbuild.Open ID Connect.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\staticwebassets\msbuild.build.Open ID Connect.props
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Open ID Connect.props
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Open ID Connect.props
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID .85E9F61A.Up2Date
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID Connect.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\refint\Open ID Connect.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID Connect.pdb
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\Open ID Connect.genruntimeconfig.cache
+D:\Documents\.Net\Open ID Connect\Open ID Connect\obj\Debug\net8.0\ref\Open ID Connect.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Azure.Core.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Azure.Identity.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Humanizer.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.ClientModel.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.CodeDom.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\.Net\Open ID Connect\Open ID Connect\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
