@@ -1,0 +1,57 @@
+﻿@model ExternalLoginViewModel
+
+@{
+    ViewData["Title"] = $"{Model.Provider} Login Info";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<div class="row">
+    <div class="col-md-12">
+        <h4>Basic Information</h4>
+        <dl class="row">
+            <dt class="col-sm-3">Provider</dt>
+            <dd class="col-sm-9">@Model.Provider</dd>
+
+            <dt class="col-sm-3">User ID</dt>
+            <dd class="col-sm-9">@Model.UserId</dd>
+
+            <dt class="col-sm-3">Email</dt>
+            <dd class="col-sm-9">@Model.Email</dd>
+
+            <dt class="col-sm-3">Name</dt>
+            <dd class="col-sm-9">@Model.Name</dd>
+
+            <dt class="col-sm-3">Given Name</dt>
+            <dd class="col-sm-9">@Model.GivenName</dd>
+
+            <dt class="col-sm-3">Surname</dt>
+            <dd class="col-sm-9">@Model.Surname</dd>
+        </dl>
+
+        <h4>All Claims</h4>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Type</th>
+                    <th>Value</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var claim in Model.AllClaims)
+                {
+                    <tr>
+                        <td>@claim.Type</td>
+                        <td>@claim.Value</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="form-group">
+            <form asp-action="CompleteExternalLogin" asp-route-returnUrl="@TempData["ReturnUrl"]" method="post">
+                <button type="submit" class="btn btn-primary">Continue</button>
+            </form>
+        </div>  
+    </div>
+</div>
